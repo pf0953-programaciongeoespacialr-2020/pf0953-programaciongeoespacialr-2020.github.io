@@ -7,11 +7,10 @@
 Este es un curso básico de programación de computadoras enfocado en la estadistica descriptiva, el analisis de series temporales, el manejo de datos geoespaciales y su visualizacion mediante el lenguaje de programación R. Se pretende que los estudiantes aprendan las bases de programación, con el fin de que cuenten con las herramientas necesarias para realizar análisis de datos provenientes de fuentes como archivos geoespaciales, bases de datos y servicios web, entre otras. Los estudiantes no requieren contar con conocimientos previos en programación de computadoras.
 
 #### Programa
-[Programa del curso]()
+[Programa del curso](https://github.com/pf0953-programaciongeoespacialr-2020/programa-curso/blob/master/PF-0953-Programaci%C3%B3n_geoespacial_R_Programa_curso-2020.pdf)
 
 #### Lecciones
     
-
 #### Tareas
 
 #### Recursos
