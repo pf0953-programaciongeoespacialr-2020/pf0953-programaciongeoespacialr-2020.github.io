@@ -18,7 +18,7 @@ Este es un curso básico de programación de computadoras enfocado en la estadis
 [Lista de recursos](https://pf0953-programaciongeoespacialr-2020.github.io/recursos/)
 
 #### Otros
-[Videos de las lecciones]()
+[Videos de las lecciones](https://www.youtube.com/playlist?list=PL1gEgLSwAJeIQbvxYgjG5_6Q21f6UOw5M)
 
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
