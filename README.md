@@ -10,6 +10,7 @@ Este es un curso básico de programación de computadoras enfocado en la estadis
 [Programa del curso](https://github.com/pf0953-programaciongeoespacialr-2020/programa-curso/blob/master/PF-0953-Programaci%C3%B3n_geoespacial_R_Programa_curso-2020.pdf)
 
 #### Lecciones
+* [01 Introducción a la arquitectura de computadoras y a los lenguajes de programación](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-01-introduccion/)
     
 #### Tareas
 
