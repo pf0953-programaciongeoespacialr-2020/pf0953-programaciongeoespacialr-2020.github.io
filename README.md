@@ -14,6 +14,7 @@ Este es un curso básico de programación de computadoras enfocado en la estadis
 * [02 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-02-markdown/)
     
 #### Tareas
+* [01 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-01-markdown/)
 
 #### Recursos
 [Lista de recursos](https://pf0953-programaciongeoespacialr-2020.github.io/recursos/)
