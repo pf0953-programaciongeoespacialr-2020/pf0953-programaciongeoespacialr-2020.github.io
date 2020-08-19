@@ -11,6 +11,7 @@ Este es un curso básico de programación de computadoras enfocado en la estadis
 
 #### Lecciones
 * [01 Introducción a la arquitectura de computadoras y a los lenguajes de programación](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-01-introduccion/)
+* [02 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-02-markdown/)
     
 #### Tareas
 
