@@ -1,10 +1,7 @@
-# PF0953 Programación geoespacial en R
-
-## Universidad de Costa Rica
-### Maestría Académica en Gestión Integrada del Recurso Hídrico para Latinoamérica y el Caribe
-
 #### Descripción del curso
 Este es un curso básico de programación de computadoras enfocado en la estadistica descriptiva, el analisis de series temporales, el manejo de datos geoespaciales y su visualizacion mediante el lenguaje de programación R. Se pretende que los estudiantes aprendan las bases de programación, con el fin de que cuenten con las herramientas necesarias para realizar análisis de datos provenientes de fuentes como archivos geoespaciales, bases de datos y servicios web, entre otras. Los estudiantes no requieren contar con conocimientos previos en programación de computadoras.
+
+El curso forma parte de la [Maestría Académica en Gestión Integrada del Recurso Hídrico para Latinoamérica y el Caribe (GIRH-LAC)](https://oacg.fcs.ucr.ac.cr/maestria/) de la Universidad de Costa Rica.
 
 #### Programa
 [Programa del curso](https://github.com/pf0953-programaciongeoespacialr-2020/programa-curso/blob/master/PF-0953-Programaci%C3%B3n_geoespacial_R_Programa_curso-2020.pdf)
