@@ -9,7 +9,7 @@ El curso forma parte de la [Maestría Académica en Gestión Integrada del Recur
 #### Lecciones
 * [01 Introducción a la arquitectura de computadoras y a los lenguajes de programación](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-01-introduccion/)
 * [02 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-02-markdown/)
-* [03 El R - funciones, tipos de datos y variables](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-03-r-introduccion/)
+* [03 R - funciones, tipos de datos y variables](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-03-r-introduccion/)
     
 #### Tareas
 * [01 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-01-markdown/)
