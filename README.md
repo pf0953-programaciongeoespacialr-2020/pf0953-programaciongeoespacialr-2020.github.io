@@ -3,6 +3,8 @@ Este es un curso básico de programación de computadoras enfocado en la estadis
 
 El curso forma parte de la [Maestría Académica en Gestión Integrada del Recurso Hídrico para Latinoamérica y el Caribe (GIRH-LAC)](https://oacg.fcs.ucr.ac.cr/maestria/) de la Universidad de Costa Rica.
 
+Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de este curso están disponibles en [https://github.com/pf0953-programaciongeoespacialr-2020](https://github.com/pf0953-programaciongeoespacialr-2020).
+
 #### Programa
 [Programa del curso](https://github.com/pf0953-programaciongeoespacialr-2020/programa-curso/blob/master/PF-0953-Programaci%C3%B3n_geoespacial_R_Programa_curso-2020.pdf)
 
