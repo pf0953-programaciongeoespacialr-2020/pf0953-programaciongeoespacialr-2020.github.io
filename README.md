@@ -13,6 +13,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 * [02 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-02-markdown/)
 * [03 R - introducción, funciones, tipos de datos y variables](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-03-r-introduccion-funciones-tipos-variables/)
 * [04 R - graficación](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-04-r-graficacion/)
+* [05 El sistema Git para control de versiones](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-05-git/)
     
 #### Tareas
 * [01 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-01-markdown/)
