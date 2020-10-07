@@ -15,6 +15,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 * [04 R - graficación](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-04-r-graficacion/)
 * [05 El sistema Git para control de versiones](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-05-git/)
 * [06 El ecosistema geoespacial de R - Datos vectoriales - introducción](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-06-r-datos-vectoriales-introduccion/)
+* [07 El ecosistema geoespacial de R - Datos vectoriales - operaciones con atributos](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-07-r-datos-vectoriales-atributos/)
     
 #### Tareas
 * [01 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-01-markdown/)
