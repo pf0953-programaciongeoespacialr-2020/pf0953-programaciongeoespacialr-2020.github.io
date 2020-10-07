@@ -22,6 +22,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 * [02 R - graficación](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-02-r-graficacion/)
 
 #### Proyectos
+* [01 R- Visualización de datos vectoriales](https://pf0953-programaciongeoespacialr-2020.github.io/proyecto-01-r-datos-vectoriales-visualizacion/)
 
 #### Recursos
 [Lista de recursos](https://pf0953-programaciongeoespacialr-2020.github.io/recursos/)
