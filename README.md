@@ -22,6 +22,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 #### Tareas
 * [01 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-01-markdown/)
 * [02 R - graficación](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-02-r-graficacion/)
+* [03 Leaflet](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-03-leaflet/)
 
 #### Proyectos
 * [01 R - Visualización de datos vectoriales](https://pf0953-programaciongeoespacialr-2020.github.io/proyecto-01-r-datos-vectoriales-visualizacion/)
