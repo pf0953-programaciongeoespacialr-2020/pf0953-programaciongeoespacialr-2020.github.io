@@ -17,6 +17,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 * [06 El ecosistema geoespacial de R - Datos vectoriales - introducción](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-06-r-datos-vectoriales-introduccion/)
 * [07 El ecosistema geoespacial de R - Datos vectoriales - operaciones con atributos](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-07-r-datos-vectoriales-atributos/)
 * [08 El paquete Leaflet](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-08-r-leaflet/)
+* [09 El ecosistema geoespacial de R - Datos vectoriales - operaciones con datos espaciales](https://github.com/pf0953-programaciongeoespacialr-2020/leccion-09-r-datos-vectoriales-operaciones-espaciales/)
     
 #### Tareas
 * [01 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-01-markdown/)
