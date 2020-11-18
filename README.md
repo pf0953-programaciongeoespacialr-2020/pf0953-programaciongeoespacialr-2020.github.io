@@ -20,6 +20,10 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 * [09 El ecosistema geoespacial de R - Datos vectoriales - operaciones con datos espaciales](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-09-r-datos-vectoriales-operaciones-espaciales/)
 * [10 El ecosistema geoespacial de R - Datos raster](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-10-r-datos-raster/)
 * [11 El paquete flexdashboard](https://pf0953-programaciongeoespacialr-2020.github.io/leccion-11-r-flexdashboard/)
+
+#### Ejemplos de tableros de control de datos de COVID-19 en Costa Rica
+* [Tablero de control básico](https://pf0953-programaciongeoespacialr-2020.github.io/tablero-control-covid19-cr/)
+* [Tablero de control con mapa de calor](https://pf0953-programaciongeoespacialr-2020.github.io/tablero-control-covid19-cr-mapa-calor/)
     
 #### Tareas
 * [01 La sintaxis Markdown](https://pf0953-programaciongeoespacialr-2020.github.io/tarea-01-markdown/)
