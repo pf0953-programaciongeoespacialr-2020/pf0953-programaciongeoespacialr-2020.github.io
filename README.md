@@ -33,6 +33,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 
 #### Proyectos
 * [01 R - Visualización de datos vectoriales](https://pf0953-programaciongeoespacialr-2020.github.io/proyecto-01-r-datos-vectoriales-visualizacion/)
+* [02 R - Tablero de control de datos de COVID-19 en Costa Rica](https://pf0953-programaciongeoespacialr-2020.github.io/proyecto-02-r-tablero-control-covid19-cr/)
 
 #### Recursos
 [Lista de recursos](https://pf0953-programaciongeoespacialr-2020.github.io/recursos/)
